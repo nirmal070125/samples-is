@@ -23,3 +23,17 @@ C:\Users\chira\Desktop\toGIT\samples-is\dotnet-agent-oidc-sso\Agent\bin\Debug\Sy
 C:\Users\chira\Desktop\toGIT\samples-is\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
 C:\Users\chira\Desktop\toGIT\samples-is\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.dll
 C:\Users\chira\Desktop\toGIT\samples-is\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.pdb
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Agent.dll.config
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Agent.dll
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Agent.pdb
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.csprojAssemblyReference.cache
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.csproj.CopyComplete
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.dll
+C:\Users\wso2\Downloads\samples-is-master\samples-is-master\client-samples\dotnet\dotnet-agent-oidc-sso\Agent\obj\Debug\Agent.pdb
